@@ -1,3 +1,9 @@
+"""
+projekt_2.py: druhý projekt do Engeto Online Python Akademie
+author: Michal Barabáš
+email: mbarabas@csas.cz
+discord:
+"""
 import random
 
 # Generovani cisla
