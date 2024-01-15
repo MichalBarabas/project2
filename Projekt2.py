@@ -2,7 +2,7 @@
 projekt_2.py: druhý projekt do Engeto Online Python Akademie
 author: Michal Barabáš
 email: mbarabas@csas.cz
-discord:
+discord: Michal Barabas
 """
 import random
 
